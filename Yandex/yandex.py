@@ -1,7 +1,7 @@
-massive = (str(input('введите слова через пробел, по окончании ввода нaжмите enter: ')))
-print(massive)
+massive = (str(input('Введите слова через пробел, по окончании ввода нaжмите Enter: ')))
+# print(massive)
 a = massive.split()
-print(a)
+# print(a)
 
 a_set = set(a)
 
